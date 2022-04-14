@@ -1,0 +1,4 @@
+﻿  PKR-3.1(A).cpp
+C:\Users\Roma\source\repos\PKR-3.1(A)\PKR-3.1(A).cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Roma\source\repos\PKR-3.1(A)\PKR-3.1(A).cpp(67,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  PKR-3.1(A).vcxproj -> C:\Users\Roma\source\repos\PKR-3.1(A)\Debug\PKR-3.1(A).exe
